@@ -21,7 +21,7 @@ This project demonstrates how **interactive design can transform health educatio
 
 # 🎯 Problem Statement
 
-Many health and wellness websites present valuable information using **static layouts and large blocks of text**, which often results in:
+Many health & wellness websites present valuable information using **static layouts and large blocks of text**, which often results in:
 
 - Low user engagement
 - Poor knowledge retention
